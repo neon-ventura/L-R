@@ -1,5 +1,19 @@
 {
-  "itens": {},
+  "itens": {
+    "camiseta-malha-peruana": {
+      "nome": "Camiseta malha peruana",
+      "cat": "masculino",
+      "preco": 90,
+      "tamanhoTexto": "P ao EG",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG",
+        "EG"
+      ]
+    }
+  },
   "novos": [
     {
       "id": "novo-conj-alfaiataria",
