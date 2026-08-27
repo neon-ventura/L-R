@@ -1,0 +1,15 @@
+{
+  "itens": {},
+  "novos": [
+    {
+      "id": "novo-conj-alfaiataria",
+      "nome": "Conj. Alfaiataria",
+      "cat": "feminino",
+      "preco": 159.9,
+      "tamanhoTexto": "G ( única peça)",
+      "tamanhos": [
+        "G ( única peça)"
+      ]
+    }
+  ]
+}
