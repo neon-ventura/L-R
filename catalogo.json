@@ -111,6 +111,16 @@
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/novo-macaquinho-curto-1787929760853.webp",
       "fotoW": 213,
       "fotoH": 333
+    },
+    {
+      "id": "novo-macaquinho",
+      "nome": "Macaquinho",
+      "cat": "feminino",
+      "preco": 139.9,
+      "tamanhoTexto": "G",
+      "tamanhos": [
+        "G"
+      ]
     }
   ]
 }
