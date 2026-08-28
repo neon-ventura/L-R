@@ -138,6 +138,12 @@
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/novo-vestidos-longo-de-alcinha-1787929860273.webp",
       "fotoW": 190,
       "fotoH": 347
+    },
+    {
+      "id": "novo-vestidos",
+      "nome": "Vestidos",
+      "cat": "feminino",
+      "preco": 99.9
     }
   ]
 }
