@@ -72,6 +72,16 @@
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/novo-blusa-de-frio-la-masculina-1787859713347.webp",
       "fotoW": 1080,
       "fotoH": 1056
+    },
+    {
+      "id": "novo-conjunto",
+      "nome": "Conjunto",
+      "cat": "feminino",
+      "preco": 139.9,
+      "tamanhoTexto": "M",
+      "tamanhos": [
+        "M"
+      ]
     }
   ]
 }
