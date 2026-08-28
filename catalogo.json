@@ -146,7 +146,12 @@
       "preco": 99.9,
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/novo-vestidos-1787929997201.webp",
       "fotoW": 638,
-      "fotoH": 1100
+      "fotoH": 1100,
+      "tamanhoTexto": "Único ( veste do P ao GG)",
+      "tamanhos": [
+        "ÚNICO ( VESTE DO P",
+        "GG)"
+      ]
     }
   ]
 }
