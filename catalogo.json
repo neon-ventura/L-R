@@ -98,6 +98,16 @@
       "tamanhos": [
         "G"
       ]
+    },
+    {
+      "id": "novo-macaquinho-curto",
+      "nome": "Macaquinho curto",
+      "cat": "feminino",
+      "preco": 129.9,
+      "tamanhoTexto": "G e GG",
+      "tamanhos": [
+        "G e GG"
+      ]
     }
   ]
 }
