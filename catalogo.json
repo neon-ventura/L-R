@@ -143,7 +143,10 @@
       "id": "novo-vestidos",
       "nome": "Vestidos",
       "cat": "feminino",
-      "preco": 99.9
+      "preco": 99.9,
+      "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/novo-vestidos-1787929997201.webp",
+      "fotoW": 638,
+      "fotoH": 1100
     }
   ]
 }
