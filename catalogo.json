@@ -124,6 +124,16 @@
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/novo-macaquinho-1787929799823.webp",
       "fotoW": 646,
       "fotoH": 1100
+    },
+    {
+      "id": "novo-vestidos-longo-de-alcinha",
+      "nome": "Vestidos longo de alcinha",
+      "cat": "feminino",
+      "preco": 149.9,
+      "tamanhoTexto": "Único",
+      "tamanhos": [
+        "Único"
+      ]
     }
   ]
 }
