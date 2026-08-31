@@ -31,6 +31,18 @@
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/camiseta-polo-1787859913790.webp",
       "fotoW": 738,
       "fotoH": 1100
+    },
+    "blusinha": {
+      "nome": "Blusinha",
+      "cat": "feminino",
+      "preco": 40,
+      "tamanhoTexto": "P ao GG",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ]
     }
   },
   "novos": [
