@@ -152,6 +152,17 @@
         "ÚNICO ( VESTE DO P",
         "GG)"
       ]
+    },
+    {
+      "id": "novo-vestidos-manda-longa",
+      "nome": "Vestidos manda longa",
+      "cat": "feminino",
+      "preco": 129.9,
+      "tamanhoTexto": "Veste do M ao GG",
+      "tamanhos": [
+        "VESTE DO M",
+        "GG"
+      ]
     }
   ]
 }
