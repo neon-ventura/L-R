@@ -189,6 +189,19 @@
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/novo-vestidos-manda-longa-1788186225720.webp",
       "fotoW": 1080,
       "fotoH": 1065
+    },
+    {
+      "id": "novo-vestidos-longos",
+      "nome": "Vestidos longos",
+      "cat": "feminino",
+      "preco": 149.9,
+      "tamanhoTexto": "P ao GG",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ]
     }
   ]
 }
