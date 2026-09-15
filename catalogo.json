@@ -54,6 +54,11 @@
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/kit-bolsas-1788466891672.webp",
       "fotoW": 880,
       "fotoH": 1100
+    },
+    "sabonete-intimo": {
+      "nome": "Sabonete íntimo",
+      "cat": "acessorios",
+      "preco": 20
     }
   },
   "novos": [
