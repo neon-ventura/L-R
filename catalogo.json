@@ -112,7 +112,8 @@
       ],
       "fotoUrl": "https://raw.githubusercontent.com/neon-ventura/L-R/main/uploads/novo-conjunto-1788290408320.webp",
       "fotoW": 1100,
-      "fotoH": 974
+      "fotoH": 974,
+      "oculto": true
     },
     {
       "id": "novo-vestido",
